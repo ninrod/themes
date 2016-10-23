@@ -1,0 +1,3 @@
+* Ninrod theme collection
+  - collection of themes that I use, mainly for shell emulators and editors:
+    - idea, iterm2, mintty.

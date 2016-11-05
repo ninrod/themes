@@ -1,3 +1,14 @@
 * Ninrod theme collection
   - collection of themes that I use, mainly for shell emulators and editors:
     - idea, iterm2, mintty.
+* iTerm2 installation instructions
+  1. *note*: all the the themes for iTerm2 have the =.itermcolors= file extension.
+  2. git clone the repo.
+  3. open iterm2 and open preferences -> profile tab.
+  4. duplicate your current profile. to do that go to the left down corner, open the cog dropdown list =Other actions= and click =Duplicate profile=.
+  5. click on the profile you've just created and give it a name using the =name= text box in the general tab.
+  6. now click the colors tab and open up the color presets list (right down corner). down below on that list you should see an import option. click that.
+  7. import your chosen theme with the =.itermcolor= extension
+  8. after the import, a new color options should have appeared on this list for you. click that. your current profile now is setup with that color scheme.
+  9. chose your current profile as the default profile. with other actions -> set as default.
+  10. restart iTerm2. done.
